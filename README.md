@@ -1,1 +1,1 @@
-# JAVA - Semester2 - MOD2
+# JAVA - Semester2
